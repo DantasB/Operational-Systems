@@ -23,11 +23,11 @@ The objective of this exercise was to choose 3 common synchronization problems a
 
 Solution for the Dining Savages problem.
 
-### [Exercise 2](https://github.com/DantasB/Operational-Systems/tree/main/Second_Exercise/Second_Exercise)
+### [Exercise 2](https://github.com/DantasB/Operational-Systems/tree/main/Second_Exercise/Second_Problem)
 
 Solution for the Unisex Bathroom problem.
 
-### [Exercise 3](https://github.com/DantasB/Operational-Systems/tree/main/Second_Exercise/Third_Exercise)
+### [Exercise 3](https://github.com/DantasB/Operational-Systems/tree/main/Second_Exercise/Third_Problem)
 
 Solution for the Senate Bus problem.
 
