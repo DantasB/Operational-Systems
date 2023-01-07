@@ -26,10 +26,10 @@ To run this repository by yourself you will need to have the gcc compiler on you
 
 ```bash
 # Clone this repository
-$ git clone <https://github.com/DantasB/Operational-Systems>
+$ git clone <https://github.com/DantasB/operational-systems>
 
 # Access the project page on your terminal
-$ cd Operational-Systems/First_Exercise/
+$ cd operational-systems/First_Exercise/
 
 # Run the make command to use the makefile
 $ make
